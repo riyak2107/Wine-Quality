@@ -119,7 +119,7 @@ y_rfp=rf.predict(x_test)
 print('After feature engineering Random forest : ' ,accuracy_score(y_test,y_rfp)*100)
 
 '''
-Output : 
+Output :  
 Random forest :  68.38461538461539
 After feature engineering Random forest :  93.4273482749937
 
